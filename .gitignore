@@ -1,0 +1,25 @@
+# Ignore environment files
+.env
+*.env
+
+# Ignore virtual env
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
